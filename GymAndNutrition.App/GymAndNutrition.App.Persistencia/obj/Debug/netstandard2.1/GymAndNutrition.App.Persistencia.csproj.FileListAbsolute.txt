@@ -1,0 +1,12 @@
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.AssemblyInfo.cs
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\bin\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.deps.json
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\bin\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.dll
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\bin\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.pdb
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\bin\Debug\netstandard2.1\GymAndNutrition.App.Dominio.dll
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\bin\Debug\netstandard2.1\GymAndNutrition.App.Dominio.pdb
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.csproj.CopyComplete
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.dll
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\gymandnutrition.app.persistencia\obj\Debug\netstandard2.1\GymAndNutrition.App.Persistencia.pdb

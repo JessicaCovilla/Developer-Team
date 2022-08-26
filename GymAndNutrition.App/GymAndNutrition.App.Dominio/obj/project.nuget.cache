@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eUl6xJfzUMPDX4PHGo0+9v/eGeZ9aMluJmgZ/LwNmZRKJBXpnu6h9VD0BYxpOfHmlx4HdKr/6lz+pImLtD3DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jessica\\MINTIC\\ProyectoGym\\gymandnutrition.app\\GymAndNutrition.App.Dominio\\GymAndNutrition.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jessica\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jessica\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

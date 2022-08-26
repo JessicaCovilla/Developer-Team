@@ -1,0 +1,9 @@
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.AssemblyInfo.cs
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\bin\Debug\netstandard2.0\GymAndNutrition.App.Dominio.deps.json
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\bin\Debug\netstandard2.0\GymAndNutrition.App.Dominio.dll
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\bin\Debug\netstandard2.0\GymAndNutrition.App.Dominio.pdb
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.dll
+C:\Users\Jessica\MINTIC\ProyectoGym\gymandnutrition.app\GymAndNutrition.App.Dominio\obj\Debug\netstandard2.0\GymAndNutrition.App.Dominio.pdb
