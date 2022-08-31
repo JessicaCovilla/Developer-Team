@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbdutouE5NRMuSmXRH+QZGHilB6IkOf5x6Z2KL9QZZDL5Nv4o5b7o/YoioVxBXkYMNPUz85M/MXjgjK9gyferg==",
+  "dgSpecHash": "fkYwzpiirgpxnCMEB+Mba8woO11xX9+R3b6b4kgNaHPVhjFEOl6EP2QB49ONwU347PetuM/7FSOa8jGUErFQdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jessica\\MINTIC\\ProyectoGym\\gymandnutrition.app\\GymAndNutrition.App.Persistencia\\GymAndNutrition.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Jessica\\MINTIC\\ProyectoGym\\gymandnutrition.app\\gymandnutrition.app.persistencia\\GymAndNutrition.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jessica\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jessica\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
